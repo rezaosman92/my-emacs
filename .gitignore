@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# except these
+!init.el
+!.gitignore
+
+
+# ...even if they are in subdirectories
+!*/
